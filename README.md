@@ -1,6 +1,4 @@
-Got it! Here’s a README draft for a general **Debiasing Hate Speech Detection Model** project:
 
----
 
 # Debiasing Hate Speech Detection Model
 
@@ -76,6 +74,3 @@ This project is licensed under the MIT License.
 
 For questions or collaboration, contact \[[your.email@example.com](mailto:your.email@example.com)].
 
----
-
-Would you like me to tailor this README with your specific dataset, models, or additional project details?
