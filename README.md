@@ -36,8 +36,8 @@ Hate speech detection models can unintentionally propagate or amplify biases aga
 ### Installation
 
 ```bash
-git clone https://github.com/your-repo/hate-speech-debiasing.git
-cd hate-speech-debiasing
+git clone https://github.com/Nahom32/FAI-Amharic.git
+cd FAI-Amharic
 pip install -r requirements.txt
 ```
 
